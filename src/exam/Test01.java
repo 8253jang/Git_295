@@ -6,6 +6,6 @@ public class Test01 {
 	   
    }
    public void bb() {
-	   
+	   System.out.println("원격에서 수정함");
    }
 }
