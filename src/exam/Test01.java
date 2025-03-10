@@ -7,5 +7,6 @@ public class Test01 {
    }
    public void bb() {
 	   System.out.println("로걸에서 Test01  bb메소드 수정함");
+	   System.out.println("원격에서 수정함");
    }
 }
